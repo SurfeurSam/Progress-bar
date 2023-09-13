@@ -1,0 +1,54 @@
+.shablonShow{
+     padding: 0px;
+}
+
+.flexshowbtn{ 
+    display: flex;
+    row-gap: 20px;
+}
+.BackBtn{
+    width: 200px;
+    height: 35px;
+    background: #989ead;
+    border-radius: 20px; 
+    margin-right: 10px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    color: #000000;
+    border: 0px solid #000000;
+}
+
+.BackToMyListsBtn{
+    width: 200px;
+    height: 35px;
+    background:  #989ead;
+    border-radius: 20px; 
+    margin-right: 10px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    color: #000000;
+    border: 0px solid #000000;
+}
+
+input{
+    border-radius: 50%;
+}
+
+body{
+    background: #F5F5F5;
+}
+
+.greetings{
+    font-family: Roboto;
+}
+h4{
+    font-family: Roboto;
+}
+
+.shablonShow{
+    font-family: Roboto;
+}

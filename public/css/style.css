@@ -1,0 +1,190 @@
+
+body {
+    background-color: #F5F5F5;
+    font-family: 'Roboto';
+}
+
+h1{
+    font-family: Roboto;
+    padding: 0px;
+}
+
+.navigation {
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px;
+}
+.listContainer {
+    padding-left: 100px;
+    padding-top: 100px;
+}
+.ListContainer {
+    padding-left: 100px;
+    padding-top: 100px;
+}
+.shablon {
+    padding-left: 100px;
+    padding-top: 50px;
+}
+.myListsAdapt {
+    font-family: 'Roboto Slab'; 
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 140%;
+}
+.createShablonBtn {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 140%;
+color: #FFFFFF;
+    text-decoration: none;
+    /* margin-left: 45px; */
+   padding: 20px;
+   padding-left: 50px;
+   padding-right: 50px;
+   margin-bottom: 100px;
+    
+    
+}
+.createShablonDiv {
+    width: 228px;
+    height: 60px;    
+    background: #7EB515;
+    border-radius: 50px;
+}
+.employeeList {
+    display: flex;
+    flex-direction: column;
+    padding-left: 17px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+}
+.oneEmployeeList {
+    display: flex;
+
+}
+.ListBtn {
+width: 150px;
+height: 50px;
+background: #dde1ec;
+border-radius: 20px; 
+margin-right: 10px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+color: #000000;
+border: 0px solid #000000;
+}
+
+.logo {
+  height: 50px;
+  margin-left: 100px;
+}
+
+.nav-link {
+  color: #000;
+  text-decoration: none;
+  padding: 5px 10px;
+  /* margin-left: 230px; */
+}
+
+.nav-link:hover {
+  border-bottom: 2px solid #8bc34a;
+}
+
+.nav-link.logout,
+.nav-link.auth,
+.nav-links a.right {
+  border-radius: 20px;
+  background-color: #d3d3d3;
+  color: black;
+  padding: 12px 35px;
+}
+
+.nav-link.logout:hover,
+.nav-link.auth:hover,
+.nav-links a.right:hover {
+  background-color: #a9a9a9;
+  cursor: pointer;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+.nav-links a:not(:last-child) {
+  margin-right: 50px;
+}
+
+.right {
+  margin-right: 110px;
+}
+
+.logoMain {
+  position: absolute;
+  width: 570px;
+  height: 737px;
+  left: 1046px;
+  top: 70px;
+}
+
+.message {
+  position: absolute;
+width: 800px;
+height: 321px;
+left: 100px;
+top: 254px;
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 140%;
+color: #000000;
+
+}
+
+.mountain{
+  font-weight: 200;
+}
+.check {
+    display: flex;
+    flex-direction: column
+}
+.returnToMyListsBtn {
+    margin-left: 100px;
+    width: 150px;
+height: 50px;
+background: #dde1ec;
+border-radius: 20px; 
+margin-right: 10px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+color: #000000;
+border: 0px solid #000000;
+}
+.createShablon {
+    width: 150px;
+    height: 50px;
+    background: #dde1ec;
+    border-radius: 20px; 
+    margin-right: 10px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    color: #000000;
+    border: 0px solid #000000;
+}
